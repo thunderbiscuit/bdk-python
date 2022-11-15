@@ -1,4 +1,11 @@
 # bdk-python
+
+⚠️⚠️ The code in this repository has been moved to [bdk-ffi](https://github.com/bitcoindevkit/bdk-ffi), and development is continuing there. This repository is now considered an archive, and will not accept new pull requests or issues. ⚠️⚠️
+
+<br/>
+<br/>
+<br/>
+
 The Python language bindings for the [bitcoindevkit](https://github.com/bitcoindevkit).
 
 See the [package on PyPI](https://pypi.org/project/bdkpython/).  
